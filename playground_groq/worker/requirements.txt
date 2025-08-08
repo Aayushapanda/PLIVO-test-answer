@@ -1,9 +1,0 @@
-groq
-openai-whisper
-resemblyzer
-webrtcvad
-pydub
-requests
-beautifulsoup4
-torch
-transformers
