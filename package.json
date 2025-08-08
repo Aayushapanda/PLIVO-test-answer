@@ -1,0 +1,17 @@
+{
+  "name": "playground-groq-next",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "15.4.6",
+    "react": "18.3.1",
+    "react-dom": "18.2.0",
+    "formidable": "^3.5.1",
+    "node-fetch": "^3.3.2"
+  }
+}
